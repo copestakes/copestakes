@@ -1,4 +1,4 @@
-- <h2>Hi, I’m @copestakes (AKA David Copestakes)</h2>
+- <h2>Hi, I’m @copestakes (AKA <em>David Copestakes</em>)</h2>
 - I’m an Assistant Professor of Graphic and Interactive Design at Cabrini University.
 - I used this GitHub account for my coding experiments, teaching demonstrations and managing student accounts.
 - I’m currently learning JavaScript, React, NodeJS along with many other things.
